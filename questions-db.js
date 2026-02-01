@@ -1410,5 +1410,1413 @@ window.QUESTIONS_DB = [
     },
     correct: "iii",
     explanation: "The cortical reaction modifies the egg membrane and zona pellucida to block entry of additional sperm."
+  },
+
+  // --- THEME A: UNITY AND DIVERSITY (CONTINUED) ---
+  {
+    id: "Q101",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What specific hypothesis suggests that the first cells may have evolved in hydrothermal vents?",
+    options: {
+      i: "The Panspermia hypothesis",
+      ii: "The Endosymbiotic hypothesis",
+      iii: "The Spontaneous generation of simple organic molecules in thermal gradients",
+      iv: "The Hot Tub Time Machine theory"
+    },
+    correct: "iii",
+    explanation: "Hydrothermal vents provide heat energy and mineral catalysts. Remember 'LUCA likes it hot'—the Last Universal Common Ancestor likely evolved in these energetic environments."
+  },
+  {
+    id: "Q102",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "In the context of astrobiology, what defines the 'Goldilocks zone'?",
+    options: {
+      i: "The area where gravity is strongest",
+      ii: "The zone where UV radiation is minimal",
+      iii: "The orbital distance where liquid water can exist",
+      iv: "The zone where porridge is served at the perfect temperature"
+    },
+    correct: "iii",
+    explanation: "This is the habitable zone where it is not too hot and not too cold for liquid water. Remember the fairy tale: Goldilocks likes things 'just right'."
+  },
+  {
+    id: "Q103",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "Which feature of a virus distinguishes the lysogenic cycle from the lytic cycle?",
+    options: {
+      i: "Rapid destruction of the host cell",
+      ii: "Replication of viral proteins in the cytoplasm",
+      iii: "Integration of viral DNA into the host genome (prophage)",
+      iv: "The virus politely knocking before entering"
+    },
+    correct: "iii",
+    explanation: "In the Lyso-genic cycle, the virus generates a 'Ly-e' (lie) and hides in the DNA. The Lytic cycle leads to lysis (breaking)."
+  },
+  {
+    id: "Q104",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What is a 'clade' in cladistics?",
+    options: {
+      i: "A group of organisms sharing analogous traits",
+      ii: "A group defined by shared habitat",
+      iii: "A group consisting of an ancestor and all its descendants",
+      iv: "A weapon used by biology teachers to fight ignorance"
+    },
+    correct: "iii",
+    explanation: "A clade includes the 'Grandfather' and *all* the 'Grandkids'. If you leave a descendant out, it's not a clade, it's a family feud."
+  },
+  {
+    id: "Q105",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What primary evidence led to the reclassification of the Scrophulariaceae plant family?",
+    options: {
+      i: "Differences in flower petal color",
+      ii: "Variations in leaf shape",
+      iii: "DNA sequence analysis showing divergent lineages",
+      iv: "The plants filed a formal complaint about their family name"
+    },
+    correct: "iii",
+    explanation: "Morphology (looks) can be deceiving; DNA reveals the true ancestors. Remember: 'Genes don't lie, but flowers might'."
+  },
+  {
+    id: "Q106",
+    topic: "Theme A: Unity and Diversity",
+    level: "SL",
+    question: "Which property of water is primarily responsible for the surface tension that allows insects to walk on it?",
+    options: {
+      i: "Adhesion",
+      ii: "High specific heat capacity",
+      iii: "Cohesion due to hydrogen bonding",
+      iv: "The insects wearing tiny water-skis"
+    },
+    correct: "iii",
+    explanation: "Cohesion is water sticking to 'Co-workers' (other water molecules). This creates a 'skin' on top. Adhesion is sticking to 'Add-ons' (other surfaces)."
+  },
+  {
+    id: "Q107",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What is the function of nucleosomes in eukaryotic DNA?",
+    options: {
+      i: "To synthesize mRNA",
+      ii: "To repair damaged base pairs",
+      iii: "To facilitate supercoiling and regulate transcription",
+      iv: "To act as hair rollers for the DNA strands"
+    },
+    correct: "iii",
+    explanation: "Nucleosomes are like spools for thread; they pack DNA tight (supercoiling) so it fits, and hide genes to stop them from being read."
+  },
+  {
+    id: "Q108",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "Which enzyme is used to elucidate the semi-conservative nature of DNA replication?",
+    options: {
+      i: "Helicase",
+      ii: "Ligase",
+      iii: "DNA Polymerase",
+      iv: "The semi-conservative party leader"
+    },
+    correct: "iii",
+    explanation: "While Meselson and Stahl did the experiment, DNA Polymerase is the enzyme that actually builds the new strand using the old one as a template."
+  },
+  {
+    id: "Q109",
+    topic: "Theme A: Unity and Diversity",
+    level: "SL",
+    question: "What characterizes the 'domain' level of classification?",
+    options: {
+      i: "It distinguishes between plants and animals",
+      ii: "It groups organisms by nutritional mode",
+      iii: "It is the highest taxonomic rank (Archaea, Bacteria, Eukarya)",
+      iv: "It is the area where the king rules his subjects"
+    },
+    correct: "iii",
+    explanation: "Remember 'Dumb Kids Playing Catch On Freeways Get Squashed' - Domain is the 'Dumb' (biggest) category at the top."
+  },
+  {
+    id: "Q110",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "How does the 'RNA World' hypothesis explain the origin of life?",
+    options: {
+      i: "RNA formed after DNA to help with protein synthesis",
+      ii: "Proteins were the first catalysts",
+      iii: "RNA acted as both genetic material and catalyst (ribozyme)",
+      iv: "RNA was just looking for a job and decided to do everything"
+    },
+    correct: "iii",
+    explanation: "RNA is a 'jack of all trades'—it can store info (like DNA) and do work (like enzymes). It came first."
+  },
+
+  // --- THEME B: FORM AND FUNCTION (CONTINUED) ---
+  {
+    id: "Q111",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "In the sliding filament theory of muscle contraction, what is the role of calcium ions?",
+    options: {
+      i: "To bind to myosin heads directly",
+      ii: "To hydrolyze ATP",
+      iii: "To bind to troponin, exposing binding sites on actin",
+      iv: "To give the muscle strong bones to hold onto"
+    },
+    correct: "iii",
+    explanation: "Calcium is the key that unlocks the door. It moves the 'guard' (tropomyosin) so myosin can grab actin. No Calcium = No interaction."
+  },
+  {
+    id: "Q112",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What is the Bohr shift?",
+    options: {
+      i: "The movement of CO2 into the alveoli",
+      ii: "The change in heart rate during exercise",
+      iii: "The reduction in hemoglobin's affinity for oxygen at lower pH",
+      iv: "When physicist Niels Bohr changed his mind about atoms"
+    },
+    correct: "iii",
+    explanation: "Active tissues produce CO2 -> Acidic -> Hb dumps oxygen. Think: 'Bohr makes hemoglobin Bore of oxygen' so it lets go."
+  },
+  {
+    id: "Q113",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "Which type of transport moves sodium ions out of a neuron during the resting potential?",
+    options: {
+      i: "Facilitated diffusion",
+      ii: "Simple diffusion",
+      iii: "Active transport via the Na+/K+ pump",
+      iv: "The ions take a taxi called ATP"
+    },
+    correct: "iii",
+    explanation: "Pumping requires energy. Remember '3-2-1 NO': 3 Na+ Out (NO), 2 K+ In, uses 1 ATP."
+  },
+  {
+    id: "Q114",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What is the function of the Loop of Henle in the kidney?",
+    options: {
+      i: "To filter blood cells",
+      ii: "To reabsorb glucose",
+      iii: "To create a hypertonic medulla for water reabsorption",
+      iv: "To take the urine on a rollercoaster ride"
+    },
+    correct: "iii",
+    explanation: "The Loop is a salt pump. It makes the kidney medulla salty (hypertonic) so water *wants* to leave the collecting duct later."
+  },
+  {
+    id: "Q115",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "Why are Type I pneumocytes in alveoli extremely thin?",
+    options: {
+      i: "To secrete surfactant",
+      ii: "To protect against bacteria",
+      iii: "To minimize diffusion distance for gas exchange",
+      iv: "Because they skipped lunch"
+    },
+    correct: "iii",
+    explanation: "Type I is 'The One' for diffusion (thin). Type II (Two) makes the 'Glue' (surfactant)."
+  },
+  {
+    id: "Q116",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "Which level of protein structure involves interactions between R-groups (side chains)?",
+    options: {
+      i: "Primary structure",
+      ii: "Secondary structure",
+      iii: "Tertiary structure",
+      iv: "The social structure of amino acid cliques"
+    },
+    correct: "iii",
+    explanation: "Primary is the list; Secondary is local folding (H-bonds); Tertiary is the 3D shape caused by R-group drama (bonding)."
+  },
+  {
+    id: "Q117",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What creates the turgor pressure in plant cells?",
+    options: {
+      i: "The rigidity of the cell wall alone",
+      ii: "The pressure of the nucleus",
+      iii: "Water influx into the central vacuole via osmosis",
+      iv: "The plant holding its breath"
+    },
+    correct: "iii",
+    explanation: "Water fills the vacuole balloon, pushing against the wall. Without water, the plant wilts (losses turgor)."
+  },
+  {
+    id: "Q118",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "How does the structure of cellulose differ from starch?",
+    options: {
+      i: "Cellulose uses alpha-glucose; starch uses beta-glucose",
+      ii: "Cellulose is branched; starch is unbranched",
+      iii: "Cellulose uses beta-glucose and is unbranched/straight",
+      iv: "Cellulose is made of celery; starch is made of potatoes"
+    },
+    correct: "iii",
+    explanation: "Beta-glucose molecules in cellulose flip 180 degrees, making straight chains like 'steel bars' for walls. Alpha-glucose curls up in starch."
+  },
+  {
+    id: "Q119",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What is the main role of cholesterol in mammalian cell membranes?",
+    options: {
+      i: "Energy storage",
+      ii: "Cell recognition",
+      iii: "Modulating membrane fluidity",
+      iv: "Clogging the cell's arteries"
+    },
+    correct: "iii",
+    explanation: "Cholesterol is a buffer. It stops the membrane from freezing when cold and melting when hot. It keeps fluidity 'just right'."
+  },
+  {
+    id: "Q120",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What is the function of auxin efflux pumps in plants?",
+    options: {
+      i: "To absorb water from soil",
+      ii: "To transport sugar",
+      iii: "To set up concentration gradients of auxin for directional growth",
+      iv: "To pump up the plant's muscles"
+    },
+    correct: "iii",
+    explanation: "PIN proteins (efflux pumps) move auxin to the shady side, causing cell elongation and bending towards light (phototropism)."
+  },
+  {
+    id: "Q121",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "Which vessel transports water under tension in plants?",
+    options: {
+      i: "Phloem",
+      ii: "Cambium",
+      iii: "Xylem",
+      iv: "The plant's straw"
+    },
+    correct: "iii",
+    explanation: "Xylem = Xy-high (moves water up). Phloem = Flow-low (moves food down... and up). Tension is in the Xylem."
+  },
+  {
+    id: "Q122",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What distinguishes a steroid hormone's mechanism of action?",
+    options: {
+      i: "It binds to membrane receptors",
+      ii: "It requires a second messenger",
+      iii: "It passes through the membrane and binds to intracellular receptors",
+      iv: "It uses a megaphone to shout at the nucleus"
+    },
+    correct: "iii",
+    explanation: "Steroids are lipids (fats). They can ghost right through the lipid membrane to get to the nucleus directly."
+  },
+  {
+    id: "Q123",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What property of stem cells makes them useful for therapy?",
+    options: {
+      i: "They are large",
+      ii: "They are resistant to drugs",
+      iii: "They are undifferentiated and can become various cell types",
+      iv: "They have a PhD in healing"
+    },
+    correct: "iii",
+    explanation: "Stem cells are the 'blank slate' of biology. They can differentiate into specific tissues to replace damaged ones."
+  },
+  {
+    id: "Q124",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "Which protein is the primary component of thick filaments in muscle?",
+    options: {
+      i: "Actin",
+      ii: "Troponin",
+      iii: "Myosin",
+      iv: "Thick-o-sin"
+    },
+    correct: "iii",
+    explanation: "Myosin is the 'Mighty' (thick) one that pulls. Actin is 'Active' (thin) and gets pulled."
+  },
+  {
+    id: "Q125",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "Where are proteins destined for secretion synthesized?",
+    options: {
+      i: "Free ribosomes",
+      ii: "The nucleus",
+      iii: "Ribosomes on the Rough Endoplasmic Reticulum (rER)",
+      iv: "The cell's export department"
+    },
+    correct: "iii",
+    explanation: "Free ribosomes make proteins for *inside* the cell. rER ribosomes make proteins to be shipped *out* (secretion)."
+  },
+
+  // --- THEME C: INTERACTION AND INTERDEPENDENCE (CONTINUED) ---
+  {
+    id: "Q126",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "In the light-dependent reactions, what is the primary role of photolysis?",
+    options: {
+      i: "To produce carbon dioxide",
+      ii: "To absorb light energy",
+      iii: "To replace electrons lost by Photosystem II",
+      iv: "To give the plant a refreshing drink"
+    },
+    correct: "iii",
+    explanation: "When PSII loses an electron, it needs a refill. Water is split (photolysis) to provide electrons, creating O2 as waste."
+  },
+  {
+    id: "Q127",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What occurs during the 'Link Reaction' in cell respiration?",
+    options: {
+      i: "Glucose is split into pyruvate",
+      ii: "ATP is synthesized in bulk",
+      iii: "Pyruvate is decarboxylated and oxidized to form Acetyl-CoA",
+      iv: "The cell connects to the WiFi"
+    },
+    correct: "iii",
+    explanation: "It links Glycolysis (cytoplasm) to the Krebs Cycle (matrix). Pyruvate loses a carbon (CO2) and joins Coenzyme A."
+  },
+  {
+    id: "Q128",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "What is a 'keystone species'?",
+    options: {
+      i: "The most abundant species",
+      ii: "A species that builds physical structures",
+      iii: "A species with a disproportionately large effect on its environment relative to its abundance",
+      iv: "A species that holds the keys to the ecosystem"
+    },
+    correct: "iii",
+    explanation: "Like the keystone in an arch, if you remove this one species (even if small), the whole ecosystem collapses."
+  },
+  {
+    id: "Q129",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "How does competitive inhibition of an enzyme occur?",
+    options: {
+      i: "The inhibitor binds to the allosteric site",
+      ii: "The inhibitor permanently destroys the enzyme",
+      iii: "The inhibitor binds to the active site, blocking the substrate",
+      iv: "The inhibitor challenges the substrate to a thumb war"
+    },
+    correct: "iii",
+    explanation: "Competitive inhibitors 'compete' for the same spot (active site). You can overcome them by adding more substrate."
+  },
+  {
+    id: "Q130",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "Which gas is a significant greenhouse gas alongside CO2?",
+    options: {
+      i: "Nitrogen",
+      ii: "Oxygen",
+      iii: "Methane",
+      iv: "Cow burps (technically true, but scientific name needed)"
+    },
+    correct: "iii",
+    explanation: "Methane (CH4) and water vapor are the other big greenhouse gases. Nitrogen and Oxygen don't trap heat."
+  },
+  {
+    id: "Q131",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "In photosynthesis, where do the light-independent reactions (Calvin Cycle) take place?",
+    options: {
+      i: "Thylakoid membrane",
+      ii: "Cristae",
+      iii: "Stroma",
+      iv: "In the dark corners of the leaf"
+    },
+    correct: "iii",
+    explanation: "Light reactions happen on the thylakoid (solar panels). Sugar building (Calvin) happens in the stroma (the soup)."
+  },
+  {
+    id: "Q132",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is the role of NADP in photosynthesis?",
+    options: {
+      i: "To absorb light",
+      ii: "To split water",
+      iii: "To carry electrons and hydrogen to the Calvin Cycle",
+      iv: "To supervise the chloroplast workers"
+    },
+    correct: "iii",
+    explanation: "NADP is a carrier. It becomes NADPH (Reduced NADP) and carries energy/hydrogen to build sugar."
+  },
+  {
+    id: "Q133",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "What is the primary source of energy for almost all ecosystems?",
+    options: {
+      i: "Geothermal heat",
+      ii: "Wind",
+      iii: "Sunlight",
+      iv: "Double espresso shots"
+    },
+    correct: "iii",
+    explanation: "Sunlight is the initial energy source, converted to chemical energy by autotrophs (producers)."
+  },
+  {
+    id: "Q134",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What causes the depolarization of a neuron membrane?",
+    options: {
+      i: "Efflux of potassium ions",
+      ii: "Influx of chloride ions",
+      iii: "Influx of sodium ions",
+      iv: "The neuron getting excited about biology"
+    },
+    correct: "iii",
+    explanation: "When channels open, Sodium (Na+) rushes IN. This makes the inside positive (Depolarization)."
+  },
+  {
+    id: "Q135",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "Which cells produce monoclonal antibodies?",
+    options: {
+      i: "Red blood cells",
+      ii: "T-cells",
+      iii: "Hybridoma cells",
+      iv: "Frankenstein cells"
+    },
+    correct: "iii",
+    explanation: "Hybridomas are a fusion of a B-cell (antibody maker) and a tumor cell (immortal). They pump out antibodies forever."
+  },
+  {
+    id: "Q136",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "What is the definition of a 'community'?",
+    options: {
+      i: "A group of the same species",
+      ii: "An organism and its abiotic environment",
+      iii: "Populations of different species living and interacting in the same area",
+      iv: "A neighborhood with a strict HOA"
+    },
+    correct: "iii",
+    explanation: "Population = same species. Community = different species hanging out. Ecosystem = Community + Abiotic factors."
+  },
+  {
+    id: "Q137",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is 'allelopathy'?",
+    options: {
+      i: "Attraction of pollinators",
+      ii: "Symbiosis between roots and fungi",
+      iii: "Secretion of chemicals by plants to inhibit competitors",
+      iv: "Plants throwing shade at each other"
+    },
+    correct: "iii",
+    explanation: "Allelopathy is chemical warfare. Plants like Black Walnut secrete toxins to stop other plants from growing nearby."
+  },
+  {
+    id: "Q138",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "Where are protons pumped to accumulate during aerobic respiration in mitochondria?",
+    options: {
+      i: "Matrix",
+      ii: "Cytoplasm",
+      iii: "Intermembrane space",
+      iv: "The waiting room"
+    },
+    correct: "iii",
+    explanation: "Protons are pumped into the tiny Intermembrane space to build high pressure (gradient), driving ATP synthase."
+  },
+  {
+    id: "Q139",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "What is the effect of neonicotinoid pesticides on insects?",
+    options: {
+      i: "They block ATP production",
+      ii: "They inhibit cell walls",
+      iii: "They bind to acetylcholine receptors, causing paralysis",
+      iv: "They give the bugs a nicotine buzz"
+    },
+    correct: "iii",
+    explanation: "They mimic acetylcholine but don't break down, overstimulating the insect's nerves until paralysis and death occur."
+  },
+  {
+    id: "Q140",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What defines 'end-product inhibition'?",
+    options: {
+      i: "The enzyme runs out of energy",
+      ii: "The substrate destroys the enzyme",
+      iii: "The final product of a pathway inhibits the first enzyme (allosterically)",
+      iv: "The product goes on strike"
+    },
+    correct: "iii",
+    explanation: "It's negative feedback. If you have enough product, the product itself turns off the factory switch to save resources."
+  },
+
+  // --- THEME D: CONTINUITY AND CHANGE (CONTINUED) ---
+  {
+    id: "Q141",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "How does DNA methylation affect gene expression?",
+    options: {
+      i: "It increases transcription",
+      ii: "It causes mutation",
+      iii: "It inhibits transcription (silences genes)",
+      iv: "It gives the gene a caffeine boost"
+    },
+    correct: "iii",
+    explanation: "Methylation adds 'locks' to the DNA. It tightens the coil, so transcription machinery cannot read the gene."
+  },
+  {
+    id: "Q142",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "During which phase of meiosis does crossing over occur?",
+    options: {
+      i: "Metaphase I",
+      ii: "Anaphase II",
+      iii: "Prophase I",
+      iv: "The crossover episode"
+    },
+    correct: "iii",
+    explanation: "Crossing over happens at the very start (Prophase I). Homologous chromosomes hug (synapsis) and swap DNA."
+  },
+  {
+    id: "Q143",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What is a 'polygenic' trait?",
+    options: {
+      i: "A trait controlled by one gene",
+      ii: "A trait controlled by the environment only",
+      iii: "A trait influenced by multiple genes, showing continuous variation",
+      iv: "A trait named Polly"
+    },
+    correct: "iii",
+    explanation: "Poly = Many. Traits like height or skin color are controlled by many genes, creating a bell curve (continuous) range."
+  },
+  {
+    id: "Q144",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What is the function of the promoter region in DNA?",
+    options: {
+      i: "To code for amino acids",
+      ii: "To stop transcription",
+      iii: "To provide a binding site for RNA polymerase",
+      iv: "To hype up the gene before the show"
+    },
+    correct: "iii",
+    explanation: "The promoter says 'Start Here'. It is non-coding DNA where RNA polymerase grabs on to begin transcription."
+  },
+  {
+    id: "Q145",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What describes the 'founder effect'?",
+    options: {
+      i: "Natural selection making a population stronger",
+      ii: "Mutation rates increasing",
+      iii: "Genetic drift when a small group establishes a new population",
+      iv: "The CEO taking all the credit"
+    },
+    correct: "iii",
+    explanation: "If a few individuals leave to start a new colony, the gene pool is limited to just their genes, reducing diversity."
+  },
+  {
+    id: "Q146",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What is the purpose of the cortical reaction during fertilization?",
+    options: {
+      i: "To attract sperm",
+      ii: "To nourish the egg",
+      iii: "To prevent polyspermy",
+      iv: "To give the egg a force field"
+    },
+    correct: "iii",
+    explanation: "Once one sperm enters, cortical granules release enzymes that harden the outer layer, stopping other sperm from entering."
+  },
+  {
+    id: "Q147",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What is PCR (Polymerase Chain Reaction) used for?",
+    options: {
+      i: "To cut DNA",
+      ii: "To sequence amino acids",
+      iii: "To amplify (copy) small amounts of DNA",
+      iv: "To make DNA popcorn"
+    },
+    correct: "iii",
+    explanation: "PCR is a DNA photocopier. It turns a tiny sample into millions of copies so we can analyze it."
+  },
+  {
+    id: "Q148",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What describes 'linked genes'?",
+    options: {
+      i: "Genes on different chromosomes",
+      ii: "Genes that code for the same protein",
+      iii: "Genes located close together on the same chromosome",
+      iv: "Genes that are best friends"
+    },
+    correct: "iii",
+    explanation: "Linked genes sit next to each other on the chromosome bus, so they usually get off at the same stop (inherited together)."
+  },
+  {
+    id: "Q149",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "Which phase of the cell cycle is NOT part of mitosis?",
+    options: {
+      i: "Prophase",
+      ii: "Metaphase",
+      iii: "Interphase",
+      iv: "Lunch phase"
+    },
+    correct: "iii",
+    explanation: "Interphase is the preparation (copying DNA). Mitosis (PMAT) is the actual division. Interphase is the 'between' phase."
+  },
+  {
+    id: "Q150",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "In water potential (Ψ), water always moves from:",
+    options: {
+      i: "Low Ψ to High Ψ",
+      ii: "Negative Ψ to Positive Ψ",
+      iii: "Higher (less negative) Ψ to Lower (more negative) Ψ",
+      iv: "The pool to the towel"
+    },
+    correct: "iii",
+    explanation: "Pure water is 0 (Highest). Solutes make it negative. Water flows 'downhill' from high potential (0) to low potential (-100)."
+  },
+  {
+    id: "Q151",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What evidence suggests that mitochondria were once independent prokaryotes?",
+    options: {
+      i: "They have a nucleus",
+      ii: "They are green",
+      iii: "They have their own circular DNA and 70S ribosomes",
+      iv: "They pay rent to the cell"
+    },
+    correct: "iii",
+    explanation: "The Endosymbiotic Theory! They look just like bacteria (circular DNA, 70S ribosomes, binary fission)."
+  },
+  {
+    id: "Q152",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What is the primary function of the surfactant secreted in alveoli?",
+    options: {
+      i: "To absorb oxygen",
+      ii: "To kill bacteria",
+      iii: "To reduce surface tension and prevent collapse",
+      iv: "To keep the lungs slippery for dancing"
+    },
+    correct: "iii",
+    explanation: "Surfactant breaks water tension. Without it, the wet walls of the alveoli would stick together like a wet plastic bag."
+  },
+  {
+    id: "Q153",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is the specific role of Rubisco in the Calvin Cycle?",
+    options: {
+      i: "To split water",
+      ii: "To produce ATP",
+      iii: "To catalyze the fixation of CO2 to RuBP",
+      iv: "To make biscuits"
+    },
+    correct: "iii",
+    explanation: "Rubisco is the matchmaker. It grabs CO2 from the air and sticks it onto RuBP. It's the most abundant enzyme on Earth."
+  },
+  {
+    id: "Q154",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What is a 'gene pool'?",
+    options: {
+      i: "A chromosome",
+      ii: "The nucleus",
+      iii: "All the genes and their alleles in an interbreeding population",
+      iv: "A swimming pool for denim pants"
+    },
+    correct: "iii",
+    explanation: "The gene pool is the sum of all genetic options available to a population. Evolution is the change in this pool over time."
+  },
+  {
+    id: "Q155",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What occurs during depolarization of the heart?",
+    options: {
+      i: "Valves close",
+      ii: "Blood leaves the heart",
+      iii: "The SA node fires, causing atrial contraction",
+      iv: "The heart takes a nap"
+    },
+    correct: "iii",
+    explanation: "The Sinoatrial (SA) node is the pacemaker. It sends the electric signal that starts the beat (depolarization)."
+  },
+  {
+    id: "Q156",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "Why is energy transfer between trophic levels inefficient (approx 10%)?",
+    options: {
+      i: "Predators are picky eaters",
+      ii: "Plants hide the energy",
+      iii: "Energy is lost as heat (respiration) and unconsumed parts",
+      iv: "The energy tax is too high"
+    },
+    correct: "iii",
+    explanation: "Organisms use energy to live (heat loss) or poop it out. Only 10% becomes new body mass for the next predator."
+  },
+  {
+    id: "Q157",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What is the function of tRNA activating enzymes?",
+    options: {
+      i: "To build the ribosome",
+      ii: "To digest proteins",
+      iii: "To attach the specific amino acid to its corresponding tRNA",
+      iv: "To wake up the tRNA in the morning"
+    },
+    correct: "iii",
+    explanation: "These enzymes match the right amino acid to the right tRNA. This ensures the genetic code is translated correctly."
+  },
+  {
+    id: "Q158",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "In molecular phylogenetics, what is a 'molecular clock'?",
+    options: {
+      i: "A biological timer for cell division",
+      ii: "The circadian rhythm",
+      iii: "Using mutation rates in DNA/proteins to estimate divergence time",
+      iv: "A watch worn by a molecule"
+    },
+    correct: "iii",
+    explanation: "Mutations accumulate at a roughly constant rate. Counting the differences tells you how long ago two species split."
+  },
+  {
+    id: "Q159",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What is the main advantage of having a double circulatory system?",
+    options: {
+      i: "It looks cooler",
+      ii: "It allows mixing of blood",
+      iii: "It separates oxygenated and deoxygenated blood, maintaining high pressure",
+      iv: "It provides a backup heart"
+    },
+    correct: "iii",
+    explanation: "Separation ensures oxygen-rich blood goes to the body and oxygen-poor blood goes to the lungs, both at appropriate pressures."
+  },
+  {
+    id: "Q160",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What describes 'discontinuous variation'?",
+    options: {
+      i: "A range of values (e.g., height)",
+      ii: "Traits influenced by environment",
+      iii: "Distinct categories (e.g., blood type)",
+      iv: "Variation that stops for a coffee break"
+    },
+    correct: "iii",
+    explanation: "You are either Blood Type A, B, AB, or O. There is no 'Type A-and-a-half'. This is discontinuous (categories)."
+  },
+  {
+    id: "Q161",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is the role of the enzyme Acetylcholinesterase?",
+    options: {
+      i: "To produce acetylcholine",
+      ii: "To transmit the signal",
+      iii: "To break down acetylcholine in the synapse",
+      iv: "To chase the acetylcholine around"
+    },
+    correct: "iii",
+    explanation: "It stops the signal. Without it, the muscle would contract forever (tetanus). It cleans up the neurotransmitter."
+  },
+  {
+    id: "Q162",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What is the significance of the quaternary structure of hemoglobin?",
+    options: {
+      i: "It is a fibrous protein",
+      ii: "It has only one chain",
+      iii: "It consists of four subunits, allowing cooperative binding of oxygen",
+      iv: "It's four times as cool as myoglobin"
+    },
+    correct: "iii",
+    explanation: "Hemoglobin has 4 parts (heme groups). When one grabs oxygen, the others shape-shift to grab oxygen faster (cooperative binding)."
+  },
+  {
+    id: "Q163",
+    topic: "Theme A: Unity and Diversity",
+    level: "SL",
+    question: "Which of the following is an exception to the Cell Theory?",
+    options: {
+      i: "Bacteria",
+      ii: "Skin cells",
+      iii: "Striated muscle fibers (multinucleated)",
+      iv: "Lego bricks"
+    },
+    correct: "iii",
+    explanation: "Cell theory says 'one nucleus per cell'. Muscle fibers are huge and have many nuclei, breaking the rule."
+  },
+  {
+    id: "Q164",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What is 'polyploidy' and how can it lead to speciation?",
+    options: {
+      i: "Loss of chromosomes",
+      ii: "Point mutation",
+      iii: "Having extra sets of chromosomes, leading to reproductive isolation",
+      iv: "A parrot named Polly playing video games"
+    },
+    correct: "iii",
+    explanation: "Common in plants. If a plant suddenly has 4n chromosomes, it can't breed with its 2n parents. Instant new species!"
+  },
+  {
+    id: "Q165",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "What is the main cause of ocean acidification?",
+    options: {
+      i: "Plastic pollution",
+      ii: "Oil spills",
+      iii: "Dissolved Carbon Dioxide forming carbonic acid",
+      iv: "Fish crying"
+    },
+    correct: "iii",
+    explanation: "CO2 + H2O -> Carbonic Acid. This lowers pH and eats away at coral reefs (calcium carbonate)."
+  },
+  {
+    id: "Q166",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What is the function of the H+ proton pump in plant roots?",
+    options: {
+      i: "To pump water out",
+      ii: "To create ATP",
+      iii: "To displace mineral ions from soil particles for absorption",
+      iv: "To inflate the roots"
+    },
+    correct: "iii",
+    explanation: "Plants pump H+ out to swap them for useful minerals (like K+) stuck to the soil. It's an ion exchange."
+  },
+  {
+    id: "Q167",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What is a 'frameshift mutation'?",
+    options: {
+      i: "Replacing one base with another",
+      ii: "A silent mutation",
+      iii: "Insertion or deletion of a base, shifting the reading frame",
+      iv: "Moving a picture frame on the wall"
+    },
+    correct: "iii",
+    explanation: "If you delete one letter in a sentence, every word after it is spelled wrong. It ruins the whole protein."
+  },
+  {
+    id: "Q168",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What is the evidence for the 'Three Domain' classification system?",
+    options: {
+      i: "Fossil records",
+      ii: "Physical size",
+      iii: "Ribosomal RNA (rRNA) sequences",
+      iv: "Rock, Paper, Scissors tournament results"
+    },
+    correct: "iii",
+    explanation: "Woese looked at rRNA and realized Archaea are totally different from Bacteria. Hence: Bacteria, Archaea, Eukaryota."
+  },
+  {
+    id: "Q169",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What describes the 'fluid mosaic model' of the membrane?",
+    options: {
+      i: "A solid wall of fat",
+      ii: "Proteins sandwiched between lipids",
+      iii: "Phospholipids flowing with embedded proteins",
+      iv: "An art project made of soup"
+    },
+    correct: "iii",
+    explanation: "Fluid = moving lipids. Mosaic = pattern of proteins. It's a dynamic, moving structure."
+  },
+  {
+    id: "Q170",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "In the kidney, what does ADH (Antidiuretic Hormone) do?",
+    options: {
+      i: "Increases urination",
+      ii: "Makes the blood salty",
+      iii: "Increases permeability of the collecting duct to water (aquaporins)",
+      iv: "Tells the kidney to stop working"
+    },
+    correct: "iii",
+    explanation: "ADH = Anti-Pee Hormone. It opens water channels (aquaporins) to save water, making urine concentrated."
+  },
+  {
+    id: "Q171",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What are 'Okazaki fragments'?",
+    options: {
+      i: "Broken pieces of lysosomes",
+      ii: "mRNA pieces",
+      iii: "Short DNA segments on the lagging strand during replication",
+      iv: "A Japanese snack"
+    },
+    correct: "iii",
+    explanation: "Because DNA polymerase only works one way, the lagging strand is built in backward 'chunks' called Okazaki fragments."
+  },
+  {
+    id: "Q172",
+    topic: "Theme A: Unity and Diversity",
+    level: "SL",
+    question: "Which organic molecule contains nitrogen?",
+    options: {
+      i: "Glucose",
+      ii: "Triglyceride",
+      iii: "Amino Acid / Protein",
+      iv: "Pure sugar"
+    },
+    correct: "iii",
+    explanation: "Proteins have an Amino group (NH2). Carbs and Lipids are mostly C, H, O. Remember 'Nitrogen is for kNit-ting proteins'."
+  },
+  {
+    id: "Q173",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What is the role of tropomyosin in muscle contraction?",
+    options: {
+      i: "To pull actin",
+      ii: "To store calcium",
+      iii: "To cover the binding sites on actin when relaxed",
+      iv: "To act as a chaperone at the muscle dance"
+    },
+    correct: "iii",
+    explanation: "Tropomyosin is the 'chaperone' blocking the kiss between Myosin and Actin. Calcium removes it."
+  },
+  {
+    id: "Q174",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is the 'Action Spectrum' of photosynthesis?",
+    options: {
+      i: "The color of the leaf",
+      ii: "The speed of light",
+      iii: "A graph showing the rate of photosynthesis at different wavelengths",
+      iv: "An action movie starring plants"
+    },
+    correct: "iii",
+    explanation: "It shows which colors actually *work* (cause action). It closely matches the absorption spectrum of chlorophyll."
+  },
+  {
+    id: "Q175",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What is the result of uncontrolled cell division (mitosis)?",
+    options: {
+      i: "Apoptosis",
+      ii: "Differentiation",
+      iii: "Tumor formation / Cancer",
+      iv: "A cell party"
+    },
+    correct: "iii",
+    explanation: "When the checkpoints fail (cyclins don't work), cells divide endlessly, forming a lump (tumor)."
+  },
+  {
+    id: "Q176",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What are 'emergent properties'?",
+    options: {
+      i: "Properties of single atoms",
+      ii: "Properties of dead cells",
+      iii: "Properties that arise from the interaction of component parts",
+      iv: "Properties that emerge from water"
+    },
+    correct: "iii",
+    explanation: "The whole is greater than the sum of its parts. A brain thinks; a single neuron does not. Thinking is an emergent property."
+  },
+  {
+    id: "Q177",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "Which blood vessel has valves?",
+    options: {
+      i: "Artery",
+      ii: "Capillary",
+      iii: "Vein",
+      iv: "Garden hose"
+    },
+    correct: "iii",
+    explanation: "Veins have low pressure. Valves stop blood from falling back down (backflow) due to gravity."
+  },
+  {
+    id: "Q178",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is the main nitrogenous waste excreted by birds and insects?",
+    options: {
+      i: "Ammonia",
+      ii: "Urea",
+      iii: "Uric Acid",
+      iv: "Bird droppings"
+    },
+    correct: "iii",
+    explanation: "Uric acid is a non-toxic paste. It saves water (great for flying/eggs) but costs energy to make."
+  },
+  {
+    id: "Q179",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "In the Lac Operon model, what does the repressor bind to?",
+    options: {
+      i: "The promoter",
+      ii: "The gene",
+      iii: "The operator",
+      iv: "The telephone operator"
+    },
+    correct: "iii",
+    explanation: "The repressor sits on the Operator (the road block) to stop the Polymerase from driving down the gene road."
+  },
+  {
+    id: "Q180",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What is the function of the ribosome?",
+    options: {
+      i: "To make ATP",
+      ii: "To store DNA",
+      iii: "To synthesize proteins (translation)",
+      iv: "To make the cell look polka-dotted"
+    },
+    correct: "iii",
+    explanation: "Ribosomes are the factories. They read mRNA instructions and build protein chains."
+  },
+  {
+    id: "Q181",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What happens during the 'Light Independent Reaction' (Calvin Cycle)?",
+    options: {
+      i: "Water is split",
+      ii: "Oxygen is released",
+      iii: "Carbon fixation (CO2 converted to organic compounds)",
+      iv: "The plant sleeps"
+    },
+    correct: "iii",
+    explanation: "Using ATP and NADPH from the light stage, the plant fixes CO2 into sugar. It's the 'sugar factory' part."
+  },
+  {
+    id: "Q182",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What determines the sex of a human offspring?",
+    options: {
+      i: "The mother's egg",
+      ii: "Temperature",
+      iii: "The father's sperm (X or Y)",
+      iv: "A coin flip"
+    },
+    correct: "iii",
+    explanation: "Mom always gives an X. Dad gives X (Girl) or Y (Boy). So, biologically, it's up to Dad."
+  },
+  {
+    id: "Q183",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What defines a 'retrovirus' like HIV?",
+    options: {
+      i: "It has DNA",
+      ii: "It has no capsid",
+      iii: "It uses Reverse Transcriptase to convert RNA to DNA",
+      iv: "It wears vintage clothing"
+    },
+    correct: "iii",
+    explanation: "Retro = Backward. It goes from RNA -> DNA (backward from the central dogma), then hides in your genome."
+  },
+  {
+    id: "Q184",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "What is the role of villi in the small intestine?",
+    options: {
+      i: "To grind food",
+      ii: "To produce acid",
+      iii: "To increase surface area for absorption",
+      iv: "To tickle the food"
+    },
+    correct: "iii",
+    explanation: "Villi are finger-like projections. They make the surface area huge (like a tennis court) to suck up nutrients efficiently."
+  },
+  {
+    id: "Q185",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "SL",
+    question: "What is the role of saprotrophs (decomposers)?",
+    options: {
+      i: "They eat living plants",
+      ii: "They hunt prey",
+      iii: "They digest dead organic matter externally and absorb nutrients",
+      iv: "They are just messy eaters"
+    },
+    correct: "iii",
+    explanation: "Fungi and bacteria spit enzymes *out* onto the dead stuff, dissolve it, then slurp it up. They recycle nutrients."
+  },
+  {
+    id: "Q186",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What allows for the production of different proteins from a single gene?",
+    options: {
+      i: "Mutation",
+      ii: "Replication",
+      iii: "Alternative splicing of mRNA",
+      iv: "Magic"
+    },
+    correct: "iii",
+    explanation: "Eukaryotes can cut and paste the mRNA differently (keeping different exons). One recipe -> Multiple meal options."
+  },
+  {
+    id: "Q187",
+    topic: "Theme A: Unity and Diversity",
+    level: "SL",
+    question: "Which is a density-dependent limiting factor for a population?",
+    options: {
+      i: "Earthquake",
+      ii: "Flood",
+      iii: "Disease / Competition",
+      iv: "Bad weather"
+    },
+    correct: "iii",
+    explanation: "These factors get worse when it's crowded (dense). Disease spreads faster in a crowd. Earthquakes don't care how crowded it is."
+  },
+  {
+    id: "Q188",
+    topic: "Theme B: Form and Function",
+    level: "HL",
+    question: "How does the 'Bohr Shift' affect oxygen transport?",
+    options: {
+      i: "It makes Hb hold O2 tighter",
+      ii: "It stops breathing",
+      iii: "Hemoglobin releases Oxygen more readily in acidic (high CO2) conditions",
+      iv: "It shifts the gear of the red blood cell"
+    },
+    correct: "iii",
+    explanation: "Working muscles make acid (CO2/Lactic). Acid makes Hemoglobin let go of Oxygen exactly where it's needed."
+  },
+  {
+    id: "Q189",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is the function of the hormone Leptin?",
+    options: {
+      i: "To increase sugar",
+      ii: "To cause sleep",
+      iii: "To inhibit appetite (secreted by fat cells)",
+      iv: "To make you hungry for lept-overs"
+    },
+    correct: "iii",
+    explanation: "Leptin says 'Leave it'. Fat cells tell the brain 'We are full, stop eating'. (Ideally)."
+  },
+  {
+    id: "Q190",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What is the ultimate source of genetic variation in a population?",
+    options: {
+      i: "Meiosis",
+      ii: "Sexual reproduction",
+      iii: "Mutation",
+      iv: "Radioactive spiders"
+    },
+    correct: "iii",
+    explanation: "Mixing cards (Meiosis/Sex) shuffles existing genes. Only Mutation creates *new* cards (new alleles)."
+  },
+  {
+    id: "Q191",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What is the 'Endosymbiotic Theory'?",
+    options: {
+      i: "Cells eat each other",
+      ii: "Viruses created cells",
+      iii: "Mitochondria and chloroplasts were once free-living prokaryotes",
+      iv: "Cells living in harmony with music"
+    },
+    correct: "iii",
+    explanation: "Big cell ate small bacteria. Small bacteria didn't die, it made energy. They became roomates forever (Mitochondria)."
+  },
+  {
+    id: "Q192",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "What is the function of the myelin sheath on neurons?",
+    options: {
+      i: "To keep the neuron warm",
+      ii: "To feed the neuron",
+      iii: "To insulate the axon and speed up impulse transmission (Saltatory conduction)",
+      iv: "To make the neuron look stylish"
+    },
+    correct: "iii",
+    explanation: "Myelin is fatty insulation. The signal jumps over the gaps (nodes), making it super fast."
+  },
+  {
+    id: "Q193",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What is the role of 'Ethylene' (Ethene) in plants?",
+    options: {
+      i: "Root growth",
+      ii: "Leaf greening",
+      iii: "Fruit ripening",
+      iv: "Making the plant smell like teen spirit"
+    },
+    correct: "iii",
+    explanation: "One rotten apple spoils the bunch because it releases Ethylene gas, which tells neighbors to ripen (and rot) too."
+  },
+  {
+    id: "Q194",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What describes a 'homologous structure'?",
+    options: {
+      i: "Structures with same function, different origin (wings)",
+      ii: "Structures that look identical",
+      iii: "Structures with similar origin/anatomy but different functions (pentadactyl limb)",
+      iv: "Structures that are just homes for logous"
+    },
+    correct: "iii",
+    explanation: "Same bones, different job (Human hand, Bat wing, Whale fin). Proof of common ancestry (Divergent evolution)."
+  },
+  {
+    id: "Q195",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "What is the 'hayflick limit' related to telomeres?",
+    options: {
+      i: "The limit of hay a cow can eat",
+      ii: "The maximum size of a cell",
+      iii: "The number of times a cell can divide before telomeres become too short",
+      iv: "The speed limit for DNA replication"
+    },
+    correct: "iii",
+    explanation: "Telomeres are protective caps on DNA. They get shorter every division. When gone, the cell stops dividing (aging)."
+  },
+  {
+    id: "Q196",
+    topic: "Theme B: Form and Function",
+    level: "SL",
+    question: "Which chamber of the heart has the thickest wall?",
+    options: {
+      i: "Right Atrium",
+      ii: "Right Ventricle",
+      iii: "Left Ventricle",
+      iv: "The Panic Room"
+    },
+    correct: "iii",
+    explanation: "The Left Ventricle has to pump blood to the *whole body*. It needs big muscles (thick walls) to generate high pressure."
+  },
+  {
+    id: "Q197",
+    topic: "Theme C: Interaction and Interdependence",
+    level: "HL",
+    question: "What describes 'Positive Feedback' in biology?",
+    options: {
+      i: "Maintaining balance (Homeostasis)",
+      ii: "Complimenting the organism",
+      iii: "A process where the output amplifies the original stimulus (e.g., Childbirth/Oxytocin)",
+      iv: "Good job, mitochondria!"
+    },
+    correct: "iii",
+    explanation: "Negative feedback fixes things. Positive feedback pushes things to the extreme (more pressure -> more oxytocin -> more pressure)."
+  },
+  {
+    id: "Q198",
+    topic: "Theme D: Continuity and Change",
+    level: "SL",
+    question: "What is the result of Meiosis?",
+    options: {
+      i: "Two identical diploid cells",
+      ii: "Four identical haploid cells",
+      iii: "Four genetically distinct haploid gametes",
+      iv: "A headache"
+    },
+    correct: "iii",
+    explanation: "Meiosis mixes genes (crossing over) and halves the chromosome count (haploid) to make sperm/eggs."
+  },
+  {
+    id: "Q199",
+    topic: "Theme A: Unity and Diversity",
+    level: "HL",
+    question: "Which of these is a feature of 'Archaea'?",
+    options: {
+      i: "They have a nucleus",
+      ii: "They have peptidoglycan cell walls",
+      iii: "They live in extreme environments and have ether-linked lipids",
+      iv: "They are really old bacteria"
+    },
+    correct: "iii",
+    explanation: "Archaea are the 'extremists'. Their membranes are chemically different (ether bonds) to survive boiling acid vents."
+  },
+  {
+    id: "Q200",
+    topic: "Theme D: Continuity and Change",
+    level: "HL",
+    question: "What is a 'tipping point' in the context of climate change?",
+    options: {
+      i: "The hottest day of the year",
+      ii: "When the ice melts",
+      iii: "A critical threshold where a small change leads to irreversible ecosystem shifts",
+      iv: "When the waiter drops the tray"
+    },
+    correct: "iii",
+    explanation: "It's the point of no return. Once passed, the system collapses or changes state permanently, even if you fix the original problem."
   }
 ];
