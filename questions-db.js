@@ -1,4 +1,4 @@
-const QUESTIONS_DB = [
+window.QUESTIONS_DB = [
   {
     id: "Q001",
     topic: "Theme A: Unity and Diversity",
